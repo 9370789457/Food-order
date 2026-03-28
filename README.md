@@ -2,12 +2,11 @@
 
 This repository hosts the source code for FOOD, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
-# BCA 3rd year Project!
+# Front End  Project!
 ### student Names  :
-1) Dev Vijay
-2) Sonali Nagar
-3) Vijay Malav
-4) Khushi Talreja
+1) Ruturaj Divate
+2) Rajvardhan Patil
+3) Soham Moraye
 
 ## Demo  🍕
 
